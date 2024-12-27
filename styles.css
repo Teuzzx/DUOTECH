@@ -301,6 +301,10 @@ body.dark-theme .projeto p {
     padding: 0 2rem;
 }
 
+body.dark-theme .hero {
+    background: url('./img/img\ fundo\ 4\ dark.png') no-repeat center center/cover;
+}
+
 .hero h1 {
     font-size: 3.5rem;
     margin-bottom: 1rem;
